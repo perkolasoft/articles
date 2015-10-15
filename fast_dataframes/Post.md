@@ -1,4 +1,4 @@
-Well hello there.
+HI.
 
 Each layer of abstraction typically adds some performance overhead.  Often
 times that's a great tradeoff, but it's important to make the decision between
